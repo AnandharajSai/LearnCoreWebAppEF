@@ -17,6 +17,8 @@ http {
         server aspnetcoreapp_B: 5001;  
         server aspnetcoreapp_C: 5002;  
     }  
+
+#test
   
     server {  
         listen 80;  
